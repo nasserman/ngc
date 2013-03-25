@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ncg>
+	<person>
+		<name>person1</name>
+		<age>12</age>
+		<degree>A</degree>
+	</person>
+	<person>
+		<name>person2</name>
+		<age>14</age>
+		<degree>c</degree>
+		<degree>P</degree>
+	</person>
+</ncg>
