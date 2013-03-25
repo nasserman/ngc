@@ -1,0 +1,2 @@
+hello every one, i am a new .net programmer that i use joomla/php for creating web sites, but i am not a guru ;) and there is some works that i have to do every time that i want to create new things in joomla development, so i decide to create simple tool for: 1. do this works, 2. create a real application for linux, 3. learn how to use github, 4. take part in open source project.
+for contact me, use nasser.man@gmail.com
